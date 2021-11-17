@@ -1,0 +1,13 @@
+html{
+    background-color: lavenderblush;
+}
+
+.container{
+    font-size: 20px;
+    color: mediumpurple;
+    padding: 30px;
+    display: block;
+    margin: 30px;
+    text-align: center;
+    margin: 0 auto;
+}
